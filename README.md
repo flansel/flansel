@@ -1,4 +1,4 @@
 - Hi, I’m Felix Ansell
-- I’m interested in systems programming in C, and scripting in Python, as well as math based programming problems.
+- I’m interested in systems programming in C, C++, and scripting in Python, as well as math based programming problems.
 - I’m currently learning OCAML, functional programming, the basis of theoretical computer science(DFAs, NFAs, PDAs etc...)
 - How to reach me: Felix_Ansell@student.uml.edu
